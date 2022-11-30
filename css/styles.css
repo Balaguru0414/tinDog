@@ -1,0 +1,246 @@
+.body{
+	text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Montserrat', sans-serif;
+}
+
+p{
+	color: #8f8f8f;
+}
+
+/* Heading */
+
+section .big-heading{
+	font-size: 3.5rem;
+	line-height: 1.5;
+	color: white;
+}
+
+section h2{
+	font-family: 'ubuntu', sans-serif;
+	font-weight: bold;
+	font-size: 3rem;	
+}
+
+section div h3{
+	font-family: 'ubuntu',sans-serif;
+	font-weight: bold;
+}
+
+
+
+.colored-section{
+	background-color: #ff4c68;
+	color: #fff;
+}
+
+
+/*section-title*/
+
+#title{
+	text-align: left;
+}
+
+section .container-fluid{
+	padding: 3% 15% 7%;
+}
+
+/*navigation bar*/
+
+section div .navbar{
+	padding-bottom: 4.5rem;
+}
+
+section div .nav-item{
+	padding: 0 18px;
+}
+
+section div .nav-link{
+	font-size: 1.2rem;
+	font-family: 'Ubuntu', sans-serif;
+
+}
+
+section div nav .navbar-brand{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 2.5rem;
+	font-weight: bold;
+}
+
+/*Download buttons*/
+
+.download-button{
+	margin: 5% 3% 10% 0;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+/*title-image*/
+
+.title-image{
+	margin-left: 10%;
+	width: 60%;
+	transform: rotate(25deg);
+}
+
+
+/*Feature Section*/
+
+#features{
+	padding: 7% 15% ;
+	
+	z-index: 1;
+}
+
+section div .feature-box{
+	padding: 5%;	
+}
+
+section div .icon{
+	color: #ef8172;
+	margin-bottom: 1rem;
+}
+
+section div .icon:hover{
+	color: #ff4c68	;
+}
+
+
+/*Section-Testimonials*/
+
+#testimonials{
+	color: #fff;
+	background-color: #ef8172;
+}
+
+section .testimonial-text{
+	font-size: 3rem;
+	line-height: 1.5;
+}
+
+section .carousel-item{
+	padding: 7% 15%;
+}
+
+
+/*testimonial-image*/
+
+section .testimonial-image{
+	width: 10%;
+	border-radius: 50%;
+	margin:20px;
+}
+
+/*section-Press*/
+
+#press{
+	background-color: #ef8172;
+	padding-bottom: 3%;
+}
+
+section .press-logo{
+	width: 15%;
+	margin: 20px 20px 50px;
+}
+
+/*section-pricing*/
+
+#pricing{
+	padding: 100px;
+}
+
+section div .pricing-card{
+	padding: 3% 2%;	
+}
+
+
+/*section-Call of action*/
+
+#cta{
+	padding: 7% 15%;
+}
+
+
+.cta-download-button{
+	margin: 5% 3% 0 0;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+/*footer section*/
+
+.social-icon{
+	margin: 20px 10px;
+	
+}
+
+#footer{
+	padding: 7% 15%;
+}
+
+@media (max-width:1072px){
+
+	#title{
+			text-align: center;
+	}
+
+	section div .title-image{
+		position: static;
+		transform: rotate(0deg);
+		margin-left: 0;
+	}
+
+}
+
+/*top-button*/
+
+.top-button{
+	width: 40px;
+	height: 40px;
+	color: white;
+	background-color: black;
+	position: fixed;
+	right: 3%;
+	bottom: 5%;
+	font-size: 25px;
+	opacity: .8;
+	border-radius: 50%;
+	z-index: 99;
+}
+
+.top-icon{
+	color: black;
+}
+
+
+
+{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
